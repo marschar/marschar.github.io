@@ -2,7 +2,7 @@
 layout: page
 title: Maryline Schär
 nav-title: Accueil
-feature-img: "assets/img/feature-img/test.png"
+feature-img: "assets/img/feature-img/home2.jpeg"
 order: 1
 ---
 

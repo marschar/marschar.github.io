@@ -3,7 +3,7 @@ layout: page
 title: Nordic Walking
 nav-title: Nordic Walking
 permalink: /nordic-walking/
-feature-img: "assets/img/feature-img/nordic-walking.jpeg"
+feature-img: "assets/img/feature-img/nordic-walking2.jpeg"
 order: 4
 ---
 
@@ -20,12 +20,3 @@ Le but est de promouvoir l’activité physique et d’agir en amont des problè
 - dorsalgies	
 
 Et participe ainsi à une meilleure qualité de vie.
-
-
-## Horaires
-
-Jeudi matin à 10h, rdv devant l’arrêt de métro Ouchy olympique (max5 pers/groupe)
-Jeudi matin à 11h, rdv devant l’arrêt de métro Ouchy olympique (max5 pers/groupe)
-
-
-Jeudi à 13h45, rdv Ouchy olympique ou devant le restaurant le carousel à Vidy selon programme et/météo
