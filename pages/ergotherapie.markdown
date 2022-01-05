@@ -3,7 +3,7 @@ layout: page
 title: Ergothérapie
 nav-title: Ergothérapie
 permalink: /ergotherapie/
-feature-img: "assets/img/feature-img/ergo3.jpeg"
+feature-img: "assets/img/feature-img/ergo4.jpeg"
 order: 2
 ---
 
