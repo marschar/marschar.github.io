@@ -8,19 +8,20 @@ order: 1
 
 ![](/assets/img/feature-img/maryline-sq.jpg){: style="display: block;border-radius: 50%;margin: auto;background-size: cover;background-position: center;width:10em;margin-top: -5em;border: 4px solid white;padding:0em;"}
 
-Je suis érgothérapeute indépendante, spécialisée en neurologie, passionnée par l’activité physique, l’architecture d’intérieur et la psychologie.
 
-La santé physique et mentale résultent d’un équilibre entre plusieurs facteurs déterminants de la santé. Cet équilibre est sans cesse influencé par notre environnement, nos habitudes, nos occupations et nos relations sociales. Agir sur ces facteurs permet de promouvoir la santé ou d’essayer de la recouvrer. 
+## Portrait : 
+Je suis ergothérapeute indépendante spécialisée en neurologie. J’ai travaillé en hôpital, en institution et suis indépendante depuis 2018. Je suis passionnée par l’activité physique, l’architecture d’intérieur et la psychologie.
 
-L’écoute, l’empathie et le respect sont au coeur de ma pratique. La personne est placée au centre du traitement et est considérée comme experte de sa situation. Je considère que chaque personne à sa capacité d’agir et que chacun a sa place dans la société et je mets un point donneur à accompagner chacun à la retrouver (empowerment).
+## Postulat: 
+La santé physique et mentale résultent d’un équilibre entre plusieurs facteurs déterminants de la santé. Cet équilibre est sans cesse influencé par notre environnement, nos habitudes, nos occupations et nos relations sociales. Agir sur ces facteurs permet de promouvoir la santé ou d’essayer de la recouvrer.
 
-Je propose diverses prestations:
+## Valeurs :
+L’écoute, l’empathie et le respect sont au cœur de ma pratique. La personne est placée au centre du traitement et est considérée comme experte de sa situation. Je considère que chacun à sa capacité d’agir et a sa place dans la société. Je mets un point d’honneur à accompagner chacun à la retrouver (empowerment).
 
-- Agir sur ses occupations en retrouvant des activités significatives par l’ergothérapie.
-- Agir sur son environnement afin de promouvoir la santé en modifiant celui-ci par l’architecture d’intérieur
+## Prestations proposées:
+
+- Agir sur ses occupations en retrouvant des activités significatives ainsi qu’un équilibre occupationnel par l’ergothérapie.
+- Agir sur son environnement afin de promouvoir la santé en modifiant celui-ci par l’aménagement intérieur
 - Agir sur ses habitudes de vie par la promotion de l’activité physique tel que le nordic walking adapté
 
-Parce que la santé n’a pas qu’une seule dimension…
-
-Et pour toutes autres questions, n’hésitez pas à me contacter via le formulaire de contact.
- 
+> Parce que la santé n’a pas qu’une seule dimension…

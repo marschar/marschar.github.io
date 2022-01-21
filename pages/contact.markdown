@@ -4,7 +4,7 @@ title: Contact
 nav-title: Contact
 permalink: /contact/
 feature-img: "assets/img/feature-img/contact.jpeg"
-order: 5
+order: 6
 ---
 
 <form accept-charset="UTF-8" action="https://getform.io/{FORM_ENDPOINT}" method="POST" enctype="multipart/form-data" target="_blank">
