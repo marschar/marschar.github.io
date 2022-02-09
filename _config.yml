@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 baseurl: ""
-domain: marschar.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://marschar.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+domain: ergo3d.ch       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://ergo3d.ch  # the base hostname and protocol for your site, e.g. http://example.com
 # THEME-SPECIFIC CONFIGURATION
 title: Maryline Schär                                        # site's title
 description: "Parce que la santé n'a pas qu'une seule dimension"      # used by search engines
