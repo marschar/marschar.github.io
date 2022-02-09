@@ -25,7 +25,7 @@ Et participe ainsi à une meilleure qualité de vie.
 
 > De mars à octobre selon météo
 
-Jeudi à 11h, devant l’arrêt de métro Ouchy olympique (max5 pers/groupe)
+Jeudi à 11h, devant l’arrêt de métro Ouchy-Olympique (maximum 5 personnes par groupe)
 
 Jeudi à 14h, devant les pyramides de Vidy, (esplanade des cantons)
 
