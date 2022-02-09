@@ -14,7 +14,7 @@ Je suis ergothérapeute indépendante spécialisée en neurologie. J’ai travai
 
 - Agir sur ses occupations en retrouvant des activités significatives ainsi qu’un équilibre occupationnel par l’ergothérapie.
 - Agir sur son environnement afin de promouvoir la santé en modifiant celui-ci par l’aménagement intérieur
-- Agir sur ses habitudes de vie par la promotion de l’activité physique tel que le nordic walking adapté
+- Agir sur ses habitudes de vie par la promotion de l’activité physique tel que le nordic walking
 
 ## Postulat: 
 La santé physique et mentale résultent d’un équilibre entre plusieurs facteurs déterminants de la santé. Cet équilibre est sans cesse influencé par notre environnement, nos habitudes, nos occupations et nos relations sociales. Agir sur ces facteurs permet de promouvoir la santé ou d’essayer de la recouvrer.

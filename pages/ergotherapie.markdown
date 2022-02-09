@@ -24,7 +24,7 @@ Mes prestations s’adressent à toute personne adulte souffrant d’atteintes c
 
 ## Remboursements et tarifs
 
-Les traitements sont pris en charge par l’assurance maladie de base (LaMal) ainsi que par les assurances sociales (LAA et AI). Une ordonnance spécifique à l’ergothérapie doit être prescrite par un médecin. Vous trouverez un lien avec une ordonnance originale.
+Les traitements sont pris en charge par l’assurance maladie de base (LaMal) ainsi que par les assurances sociales (LAA et AI). Une ordonnance spécifique à l’ergothérapie doit être prescrite par un médecin ([Ordonnance originale en pdf](/assets/Ordonnance_originale.pdf)).
 
-[Ordonnance originale en pdf](/assets/Ordonnance_originale.pdf)
+
 
