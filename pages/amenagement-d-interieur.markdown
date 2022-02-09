@@ -28,7 +28,7 @@ Aménager l’espace permet également de promouvoir la santé en favorisant le 
 
 En sus :
 - Image réaliste
-- Liste de référence du matériel
+- Liste de références du matériel
 
 ## Demander un devis 
 
