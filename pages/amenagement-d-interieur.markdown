@@ -3,7 +3,7 @@ layout: page
 title: Aménagement intérieur
 nav-title: Aménagement intérieur
 permalink: /amenagement/
-feature-img: "assets/img/feature-img/architecture.jpeg"
+feature-img: "assets/img/feature-img/archi-computer.jpg"
 order: 3
 ---
 

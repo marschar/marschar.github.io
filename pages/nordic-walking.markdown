@@ -3,7 +3,7 @@ layout: page
 title: Nordic Walking
 nav-title: Nordic Walking
 permalink: /nordic-walking/
-feature-img: "assets/img/feature-img/nordic-walking.jpeg"
+feature-img: "assets/img/feature-img/couple-trekking-together-small.jpeg"
 order: 4
 ---
 

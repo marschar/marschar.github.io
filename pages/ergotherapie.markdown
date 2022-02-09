@@ -26,10 +26,9 @@ Mes prestations s’adressent à toute personne adulte souffrant d’atteintes c
 
 Les traitements sont pris en charge par l’assurance maladie de base (LaMal) ainsi que par les assurances sociales (LAA et AI). Une ordonnance spécifique à l’ergothérapie doit être prescrite par un médecin. Vous trouverez un lien avec une ordonnance originale.
 
-## Déroulement de la prise en charge
+## Prise en charge
 
-Une première séance permet de faire connaissance, de dresser l’anamnèse et d’établir la finalité du traitement. Dès la deuxième séance, les objectifs sont établis et le travail commence.
-Les objectifs sont ensuite évalués et renouvelés si nécessaire. S’ils sont atteints et que cela a du sens, de nouveaux objectifs sont formulés jusqu’à ce que la finalité du traitement soit atteinte.
+Une première séance permet de faire connaissance, de dresser l’anamnèse et d’établir la finalité du traitement. Dès la deuxième séance, les objectifs sont établis et le travail commence. Les objectifs sont ensuite évalués et renouvelés si nécessaire. S’ils sont atteints et que cela a du sens, de nouveaux objectifs sont formulés jusqu’à ce que la finalité du traitement soit atteinte.
 
 
 [Ordonnance originale en pdf](/assets/Ordonnance_originale.pdf)
