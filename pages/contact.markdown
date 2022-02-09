@@ -3,7 +3,8 @@ layout: page
 title: Contact
 nav-title: Contact
 permalink: /contact/
-feature-img: "assets/img/feature-img/contact.jpeg"
+feature-img: "assets/img/feature-img/pexels-pixabay-207456.jpeg"
+bootstrap: true   
 order: 6
 ---
 
@@ -17,7 +18,7 @@ order: 6
           <p>
           <div class="form-group">
             <label for="exampleInputName">Nom Complet</label>
-            <input type="text" name="name" class="form-control" id="exampleInputName" placeholder="Entrez votre nom et prénoms" required="required">
+            <input type="text" name="name" class="form-control col-xs-4" id="exampleInputName" placeholder="Entrez votre nom et prénoms" required="required">
           </div>
       </p><p>
           <div class="form-group">

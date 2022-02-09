@@ -126,15 +126,15 @@ header {
   }
 
   @media screen and (min-width: $break) {
-    background-size: 120% auto;
+    background-size: 110% auto;
   }
 
   @media screen and (max-width: $break) {
-    background-size: 200% auto;
+    background-size: 120% auto;
   }
 
   @media screen and (max-width: $sm-break) {
-    background-size: 200% auto;
+    background-size: 120% auto;
   }
 }
 
