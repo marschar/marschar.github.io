@@ -3,7 +3,7 @@ layout: page
 title: Aménagement intérieur
 nav-title: Aménagement intérieur
 permalink: /amenagement/
-feature-img: "assets/img/feature-img/graphic-design-and-color-swatches-and-pens-on-desk-architectural-drawing-with-work-tools-and-accessories.jpeg"
+feature-img: "assets/img/feature-img/amenagement-interieur.jpg"
 order: 3
 ---
 
