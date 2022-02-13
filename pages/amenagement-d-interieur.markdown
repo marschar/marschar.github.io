@@ -20,13 +20,11 @@ Aménager l’espace permet également de promouvoir la santé en favorisant le 
 
 ## Prestations
 
-1. Evaluation de l’environnement
-2. Conseils 
-3. Elaboration de plan 2D
-4. Dessins DAO (en perspectives 3D)
-5. Planche d’ambiance et de style
-
-En sus :
+- Evaluation de l’environnement 
+- Conseils 
+- Elaboration de plan 2D
+- Dessins DAO (en perspectives 3D)
+- Planche d’ambiance et de style
 - Image réaliste
 - Liste de références du matériel
 

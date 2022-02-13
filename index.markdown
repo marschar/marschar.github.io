@@ -8,13 +8,16 @@ order: 1
 
 ![](/assets/img/feature-img/maryline-sq.jpg){: style="display: block;border-radius: 50%;margin: auto;background-size: cover;background-position: center;width:10em;margin-top: -5em;border: 4px solid white;padding:0em;"}
 
-Je suis ergothérapeute indépendante spécialisée en neurologie. J’ai travaillé en hôpital, en institution et suis indépendante depuis 2018. Je suis passionnée par l’activité physique, l’architecture d’intérieur et la psychologie.
+Bienvenue!
+
+Ergothérapeute spécialisée en neurologie depuis 2011 et indépendante depuis 2018, j’ai travaillé en hôpital, en institution et à domicile. Je suis passionnée par l’activité physique, l’architecture d’intérieur et la psychologie.
+Je me réjouis de mettre ma palette de compétences à votre service.
 
 ## Prestations proposées:
 
-- Agir sur ses occupations en retrouvant des activités significatives ainsi qu’un équilibre occupationnel par l’ergothérapie.
+- Agir sur ses occupations en retrouvant des activités significatives ainsi qu’un équilibre occupationnel par l’ergothérapie
 - Agir sur son environnement afin de promouvoir la santé en modifiant celui-ci par l’aménagement intérieur
-- Agir sur ses habitudes de vie par la promotion de l’activité physique tel que le nordic walking
+- Agir sur ses habitudes de vie par la pratique de l’activité physique telle que le nordic walking
 
 ## Postulat: 
 La santé physique et mentale résultent d’un équilibre entre plusieurs facteurs déterminants de la santé. Cet équilibre est sans cesse influencé par notre environnement, nos habitudes, nos occupations et nos relations sociales. Agir sur ces facteurs permet de promouvoir la santé ou d’essayer de la recouvrer.

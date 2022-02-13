@@ -23,11 +23,12 @@ Et participe ainsi à une meilleure qualité de vie.
 
 ## Horaires : 
 
-> De mars à octobre selon météo
+> De mars à octobre selon météo, durée 55 minutes avec retour au point de départ
 
-Jeudi à 11h, devant l’arrêt de métro Ouchy-Olympique (maximum 5 personnes par groupe)
+Jeudi à 11h, départ de l’arrêt de métro Ouchy-Olympique (maximum 5 personnes par groupe)
 
-Jeudi à 14h, devant les pyramides de Vidy, (esplanade des cantons)
+Jeudi à 14h, départ devant les pyramides de Vidy sur l'esplanade des Cantons (maximum 5 personnes par groupe)
 
+Séance d'essai gratuite proposée avec une paire de bâton en prêt
 
 Inscriptions par le formulaire de contact ou sur [https://www.jemebouge.ch/ergo-nordic-2/](https://www.jemebouge.ch/ergo-nordic-2/)

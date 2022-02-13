@@ -41,7 +41,7 @@ order: 6
             <label for="exampleFormControlSelect1">Nature de votre demande :</label>
             <select class="form-control" id="nature-du-contact" name="nature-du-contact" required="required">
               <option>Ergothérapie</option>
-              <option>Amménagement d'intérieur</option>
+              <option>Aménagement d'intérieur</option>
               <option>Nordic Walking</option>
             </select>
           </div>
