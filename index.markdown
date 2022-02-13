@@ -11,6 +11,7 @@ order: 1
 Bienvenue!
 
 Ergothérapeute spécialisée en neurologie depuis 2011 et indépendante depuis 2018, j’ai travaillé en hôpital, en institution et à domicile. Je suis passionnée par l’activité physique, l’architecture d’intérieur et la psychologie.
+
 Je me réjouis de mettre ma palette de compétences à votre service.
 
 ## Prestations proposées:
