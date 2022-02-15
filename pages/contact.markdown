@@ -14,26 +14,26 @@ order: 6
 <form accept-charset="UTF-8" action="https://getform.io/f/608e2bb5-5d31-4a28-80b3-7e6d226c5969" method="POST" enctype="multipart/form-data" target="_blank">
           <p>
           <div class="form-group">
-            <label for="exampleInputName">Nom</label>
+            <label for="inputSurname">Nom :</label>
             <input type="text" name="surname" class="form-control col-xs-4" id="prenom" placeholder="Entrez votre nom" required="required">
           </div>
       </p>
       <p>
          <div class="form-group">
-            <label for="exampleInputName">Prénom</label>
+            <label for="inputName">Prénom :</label>
             <input type="text" name="name" class="form-control col-xs-4" id="surname" placeholder="Entrez votre prénom" required="required">
           </div>
       </p>
           <p>
           <div class="form-group">
-            <label for="exampleInputEmail1" required="required">Téléphone</label>
-            <input type="text" name="telephone" class="form-control" id="telephone" aria-describedby="phoneHelp" placeholder="Entrez votre numéro de téléphone">
+            <label for="inputPhone" required="required">Téléphone :</label>
+            <input type="text" name="telephone" required="required" class="form-control" id="telephone" aria-describedby="phoneHelp" placeholder="Entrez votre numéro de téléphone">
           </div> 
           </p>
           <p>
           <div class="form-group">
-            <label for="exampleInputEmail1" required="required">Email</label>
-            <input type="email" name="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Entrez votre adresse email">
+            <label for="iInputEmail" required="required">Email :</label>
+            <input type="email" name="email" required="required" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Entrez votre adresse email">
           </div> 
           </p>
       <p>
@@ -46,12 +46,12 @@ order: 6
             </select>
           </div>
       </p>
-          <p>
-          <div class="form-group mt-3">
+      <p>
+          <div class="form-group">
             <label class="mr-2">Votre message:</label>
-            <textarea name="message" id="message" required="required" style="margin: 0px; height: 105px; width: 552px;"></textarea>
+            <textarea class="form-control" name="message" id="message" required="required" rows="3"></textarea>
           </div>
-          </p>
+      </p>
           <button type="submit" class="btn btn-primary">Envoyer</button>
          
 </form>
