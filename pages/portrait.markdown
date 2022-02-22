@@ -1,14 +1,12 @@
 ---
 layout: page
-title: Maryline Schär
-nav-title: Portrait
+title: Mon Parcours
+nav-title: Mon Parcours
 permalink: /portrait/
-feature-img: "assets/img/feature-img/beautiful-shot-of-high-white-hilltops-and-mountains-covered-in-fog.jpg"
+feature-img: "assets/img/feature-img/book-with-green-board-background.jpg"
 order: 5
 ---
-![](/assets/img/feature-img/maryline-sq.jpg){: style="display: block;border-radius: 50%;margin: auto;background-size: cover;background-position: center;width:10em;margin-top: -5em;border: 4px solid white;padding:0em;"}
 
-# Portrait:
 Je suis **ergothérapeute** depuis **2011** . Très vite, mon intérêt pour la **neurologie** s’est développé au cours de ma pratique et j’ai décidé de me spécialiser dans le domaine.
 Après plusieurs années de travail en institution, en hôpital, en cabinet et à domicile, j’ai décidé de me lancer en **indépendante** en **2018**.
 

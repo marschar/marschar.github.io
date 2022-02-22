@@ -2,13 +2,18 @@
 layout: page
 title: Parce que la santé n'a pas qu'une seule dimension...
 nav-title: Accueil
-feature-img: "assets/img/feature-img/concept-of-solution-and-domino-effect-slightly-focused-and-close-up-shot-selective-focus.jpg"
+feature-img: "assets/img/feature-img/beautiful-shot-of-high-white-hilltops-and-mountains-covered-in-fog.jpg"
+#feature-img: "assets/img/feature-img/concept-of-solution-and-domino-effect-slightly-focused-and-close-up-shot-selective-focus.jpg"
 order: 1
 ---
 
+![](/assets/img/feature-img/maryline-sq.jpg){: style="display: block;border-radius: 50%;margin: auto;background-size: cover;background-position: center;width:10em;margin-top: -5em;border: 4px solid white;padding:0em;"}
+
 Bienvenue!
 
-Ergo3d offre un ensemble de prestations visant à **promouvoir** et/ou à **recouvrer** la **santé**.
+Je m'appelle **Maryline Schär** et j'offre un ensemble de prestations visant à **promouvoir** et/ou à **recouvrer** la **santé**.
+
+C'est avec plaisir que je mets ma palette de compétences à votre service.
 
 
 ## Prestations proposées:
