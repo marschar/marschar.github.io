@@ -2,7 +2,7 @@
 layout: page
 title: Mon Parcours
 nav-title: Mon Parcours
-permalink: /portrait/
+permalink: /parcours/
 feature-img: "assets/img/feature-img/book-with-green-board-background.jpg"
 order: 5
 ---
@@ -10,10 +10,9 @@ order: 5
 Je suis **ergothérapeute** depuis **2011** . Très vite, mon intérêt pour la **neurologie** s’est développé au cours de ma pratique et j’ai décidé de me spécialiser dans le domaine.
 Après plusieurs années de travail en institution, en hôpital, en cabinet et à domicile, j’ai décidé de me lancer en **indépendante** en **2018**.
 
-Souvent touchée par les situations que je rencontrais en thérapie, j’ai commencé à réfléchir à une action pour **promouvoir la santé autour de moi**.
-J’ai alors compris qu’il fallait non seulement aider les gens à améliorer leurs habitudes de vie mais aussi les aider à améliorer leur environnement.
-
-Et c’est là que j’ai décidé de me former en tant que **monitrice de sport des adultes** et **architecte d’intérieur** et d’allier ces 2 casquettes à l’ergothérapie.
+Souvent interpelée par les différentes situations rencontrées en thérapie, j'ai rapidement compris qu'il fallait aider les gens à améliorer leurs habitudes de vie ainsi que leur environnement.
+J’ai alors pensé à une action pour **promouvoir la santé autour de moi**.
+C'est pourquoi, j’ai décidé de me former en tant que **monitrice de sport des adultes** et **architecte d’intérieur** afin d'agir sur ces points tout en les alliant à l’ergothérapie.
 
 ## Formations principales :
 - **Bachelor of sciences** HES-SO en **ergothérapie**, Lausanne, 2011
