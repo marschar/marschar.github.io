@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mon Parcours
-nav-title: Mon Parcours
+nav-title: Parcours
 permalink: /parcours/
 feature-img: "assets/img/feature-img/book-with-green-board-background.jpg"
 order: 5
