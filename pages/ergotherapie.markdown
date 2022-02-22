@@ -14,7 +14,7 @@ Mes prestations s’adressent à toute personne adulte souffrant d’atteintes c
 
 - Recouvrement/réadaptation de **l’autonomie au quotidien** (toilette habillage, transports publics, cuisine, sport, faire ses courses, etc.)
 - Traitement du **membre supérieur** (hémi-parésie, troubles sensitifs, motricité fine, coordination, graphisme)
-- Travail des **fonctions cognitive**s dans des tâches concrètes (attention, concentration, organisation, planification, mémoire à court terme, calcul, vision de l’espace, aphasie etc..)
+- Travail des **fonctions cognitives** dans des tâches concrètes (attention, concentration, organisation, planification, mémoire à court terme, calcul, vision de l’espace, aphasie etc..)
 - Mise en place de **moyens auxiliaires** (rollator, fauteuil roulant, siège de douche etc.)
 - Adaptation de **l’environnement** (mains courantes, adaptation de la salle de bain, etc.)
 - **Positionnement** au fauteuil roulant
