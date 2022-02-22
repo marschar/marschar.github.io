@@ -31,13 +31,11 @@ C'est pourquoi, j’ai décidé de me former en tant que **monitrice de sport de
 - Gestion positive des conflits -communication non violente, Lausanne 2017
 - Prise en charge des patients cérébrolésés présentant des troubles cognitifs et comportements « chroniques », Lausanne, 2021
 - Neuropsychologie et personne âgée, Lausanne, 2022
-- Gestion de l’énergie pour les personnes souffrant de fatigue, Lausanne, 2022
 
 ### Aménagement de l’espace :
 
 - Interior design & décoration, Idée House, Lausanne 2020
 - Formations et maîtrise de sketchup pro, en ligne, 2020-2021
-- Ergothérapie et architecture, Berne, 2022
 
 ### Sport des adultes et Nordic Walking :
 
