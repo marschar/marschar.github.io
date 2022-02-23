@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Ergo3d - Maryline Schär - Lausanne et Vevey
-alt-title: Parce que la santé a plusieurs dimension...
+alt-title: Parce que la santé a plusieurs dimensions...
 nav-title: Accueil
 feature-img: "assets/img/feature-img/beautiful-shot-of-high-white-hilltops-and-mountains-covered-in-fog.jpg"
 order: 1
