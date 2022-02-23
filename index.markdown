@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Parce que la santé a plusieurs dimension...
+title:  Ergo3d - Maryline Schär - Lausanne et Vevey
+alt-title: Parce que la santé a plusieurs dimension...
 nav-title: Accueil
 feature-img: "assets/img/feature-img/beautiful-shot-of-high-white-hilltops-and-mountains-covered-in-fog.jpg"
-#feature-img: "assets/img/feature-img/concept-of-solution-and-domino-effect-slightly-focused-and-close-up-shot-selective-focus.jpg"
 order: 1
+description: "Ergothérapie, aménagement d'intérieur et sport adapté. Parce que la santé a plusieurs dimensions."      # used by search engines
+thumbnail: "assets/img/feature-img/ergo3d.jpg"
 ---
 
 ![](/assets/img/feature-img/maryline-sq.jpg){: style="display: block;border-radius: 50%;margin: auto;background-size: cover;background-position: center;width:10em;margin-top: -5em;border: 4px solid white;padding:0em;"}
