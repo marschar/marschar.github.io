@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Parce que la santé n'a pas qu'une seule dimension...
+title: Parce que la santé a plusieurs dimension...
 nav-title: Accueil
 feature-img: "assets/img/feature-img/beautiful-shot-of-high-white-hilltops-and-mountains-covered-in-fog.jpg"
 #feature-img: "assets/img/feature-img/concept-of-solution-and-domino-effect-slightly-focused-and-close-up-shot-selective-focus.jpg"
