@@ -52,6 +52,7 @@ order: 6
             <textarea class="form-control" name="message" id="message" required="required" rows="3"></textarea>
           </div>
       </p>
+          <input type="hidden" id="captchaResponse" name="g-recaptcha-response">
           <button type="submit" class="btn btn-primary">Envoyer</button>
          
 </form>

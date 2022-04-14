@@ -89,4 +89,15 @@
     <meta name="twitter:card" content="{% unless page.thumbnail %}summary{% else %}summary_large_image{% endunless %}">
     <meta name="twitter:image" content="{{ '/' | absolute_url }}{% if page.thumbnail %}{{ page.thumbnail }}{% else %}{{ page.feature-img | default: site.header_feature_image }}{% endif %}">
     <meta name="twitter:image:alt" content="{{ page.title | default: site.title }}">
+
+    <!-- Captcha -->
+    <script src="https://www.google.com/recaptcha/api.js?render=6LdsU3UfAAAAAJdTzZSrQDW9jkOSieb4cSaX5iUD"></script>
+    <script>
+      grecaptcha.ready(function() {
+         grecaptcha.execute('6LdsU3UfAAAAAJdTzZSrQDW9jkOSieb4cSaX5iUD', {action: 'homepage'})
+         .then(function(token) {
+           document.getElementById('captchaResponse').value = token;
+         });
+     });
+    </script>
 </head>

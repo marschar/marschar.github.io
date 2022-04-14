@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Ergo3d - Maryline Schär - Lausanne et Vevey
+title: Maryline Schär - Ergothérapeute, neurologie à domicile, Lausanne et Vevey
 alt-title: Parce que la santé a plusieurs dimensions...
 nav-title: Accueil
 feature-img: "assets/img/feature-img/beautiful-shot-of-high-white-hilltops-and-mountains-covered-in-fog.jpg"
