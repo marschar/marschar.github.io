@@ -7,7 +7,7 @@ feature-img: "assets/img/feature-img/ergo.jpg"
 order: 2
 ---
 
-Je propose des traitements à **domicile** ainsi que sur le lieu de travail ou de loisirs à **Lausanne** et au centre-ville de **Vevey**.
+Je propose des traitements à **domicile** ainsi que sur le lieu de travail ou de loisirs à **Lausanne**.
 Mes prestations s’adressent à toute personne adulte souffrant d’atteintes cérébrales ou de séquelles neurologiques du type **AVC, traumatisme crânio-cérébral, maladie de Parkinson, démences et de pathologies liées à l’âge**.
 
 ## Prestations

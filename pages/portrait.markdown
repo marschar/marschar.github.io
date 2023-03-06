@@ -30,7 +30,8 @@ C'est pourquoi, j’ai décidé de me former en tant que **monitrice de sport de
 - Rééducation par la contrainte induite et thérapie du miroir, Mulhouse, 2016
 - Gestion positive des conflits -communication non violente, Lausanne 2017
 - Prise en charge des patients cérébrolésés présentant des troubles cognitifs et comportements « chroniques », Lausanne, 2021
-- Neuropsychologie et personne âgée, Lausanne, 2022
+- Le bilan neuropsychologique chez la personne âgée; pistes d'intervention à partir du potentiel de la personne, Lausanne, 2022
+- Formation en gestion de l'énergie pour des patients souffrant de fatigue chronique, Lausanne, 2022
 
 ### Aménagement de l’espace :
 

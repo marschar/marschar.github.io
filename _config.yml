@@ -12,7 +12,7 @@ lang: fr_CH
 header_text: Maryline Schär  # Change Blog header text
 header_feature_image: assets/img/pexels/triangular.jpeg
 footer_text: >
-  Ergo3d - Copyright 2022 - Maryline Schär
+  Ergo3d - Copyright 2023 - Maryline Schär
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable

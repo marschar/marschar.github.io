@@ -28,6 +28,6 @@ C'est avec plaisir que je mets ma palette de compétences à votre service.
 La santé physique et mentale résultent d’un **équilibre** entre plusieurs facteurs déterminants de la santé. Cet équilibre est sans cesse influencé par notre environnement, nos habitudes, nos occupations et nos relations sociales. Agir sur ces facteurs permet de promouvoir la santé ou d’essayer de la recouvrer.
 
 ## Valeurs :
-L’**écoute, l’empathie et le respect** sont au cœur de ma pratique. La personne est placée au centre du traitement et est considérée comme experte de sa situation. Je mets un point d’honneur à accompagner chacun à retrouver sa capacité d’agir et sa place dans la société.
+L’**écoute, l’empathie et le respect** sont au cœur de ma pratique. La personne est placée au centre du traitement et est considérée comme experte de sa situation.
 
 
