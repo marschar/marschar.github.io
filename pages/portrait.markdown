@@ -7,12 +7,20 @@ feature-img: "assets/img/feature-img/book-with-green-board-background.jpg"
 order: 5
 ---
 
-Je suis **ergothérapeute** depuis **2011** . Très vite, mon intérêt pour la **neurologie** s’est développé au cours de ma pratique et j’ai décidé de me spécialiser dans le domaine.
-Après plusieurs années de travail en institution, en hôpital, en cabinet et à domicile, j’ai décidé de me lancer en **indépendante** en **2018**.
+![](/assets/img/feature-img/maryline-sq.jpg){: style="display: block;border-radius: 50%;margin: auto;background-size: cover;background-position: center;width:10em;margin-top: -5em;border: 4px solid white;padding:0em;"}
 
-Souvent interpelée par les différentes situations rencontrées en thérapie, j'ai rapidement compris qu'il fallait aider les gens à améliorer leurs habitudes de vie ainsi que leur environnement.
+Exerçant l'**ergothérapie** depuis 2011, j'ai rapidement développé un attrait particulier pour la neurologie. 
+Après plusieurs années de travail en institution, en hôpital, en cabinet et à domicile, j’ai décidé de me lancer en tant qu'**indépendante** en **2018**.
+
+Souvent interpelée par les différentes situations rencontrées en thérapie, j'ai eu envie d'aider les gens à améliorer leurs habitudes de vie ainsi que leur environnement.
+
 J’ai alors pensé à une action pour **promouvoir la santé autour de moi**.
-C'est pourquoi, j’ai décidé de me former en tant que **monitrice de sport des adultes** et **architecte d’intérieur** afin d'agir sur ces points tout en les alliant à l’ergothérapie.
+
+C'est pourquoi, je me suis formée à la fois en tant que monitrice de sport pour adultes et en tant qu'architecte d'intérieur, afin de combiner ces compétences avec mon expertise en ergothérapie.
+
+## Valeurs :
+L’**écoute, l’empathie et le respect** sont au cœur de ma pratique. La personne est placée au centre du traitement et est considérée comme experte de sa situation.
+
 
 ## Formations principales :
 - **Bachelor of sciences** HES-SO en **ergothérapie**, Lausanne, 2011

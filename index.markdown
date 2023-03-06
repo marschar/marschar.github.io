@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Maryline Schär - Ergothérapeute, neurologie à domicile, Lausanne et Vevey
-alt-title: Parce que la santé a plusieurs dimensions...
+alt-title: Ergothérapie en neurologie à domicile, Lausanne
 nav-title: Accueil
 feature-img: "assets/img/feature-img/beautiful-shot-of-high-white-hilltops-and-mountains-covered-in-fog.jpg"
 order: 1
@@ -9,25 +9,14 @@ description: "Ergothérapie, aménagement d'intérieur et sport adapté. Parce q
 thumbnail: "assets/img/feature-img/ergo3d.jpg"
 ---
 
-![](/assets/img/feature-img/maryline-sq.jpg){: style="display: block;border-radius: 50%;margin: auto;background-size: cover;background-position: center;width:10em;margin-top: -5em;border: 4px solid white;padding:0em;"}
+L'ergothérapie se concentre sur le développement et le maintien de la capacité d'agir des personnes afin d'améliorer leur santé et leur qualité de vie. Elle accompagne les personnes de tout âge qui ont des restrictions dans leur capacité d'action, en raison d'un accident, d'une maladie, ou de troubles du développement. 
 
-Bienvenue!
-
-Je m'appelle **Maryline Schär** et j'offre un ensemble de prestations visant à **promouvoir** et/ou à **recouvrer** la **santé**.
-
-C'est avec plaisir que je mets ma palette de compétences à votre service.
-
+La santé physique et mentale résultent d’un **équilibre** entre plusieurs facteurs déterminants de la santé. Cet équilibre est sans cesse influencé par notre environnement, nos habitudes, nos occupations et nos relations sociales. Agir sur ces facteurs permet de promouvoir la santé ou d’essayer de la recouvrer.
 
 ## Prestations proposées:
 
 - Agir sur ses occupations en retrouvant des activités significatives ainsi qu’un équilibre occupationnel par l’[**ergothérapie**](/ergotherapie/).
 - Agir sur son environnement afin de promouvoir la santé en modifiant celui-ci par l’[**aménagement intérieur**](/amenagement/)
 - Agir sur ses habitudes de vie par la pratique de l’activité physique telle que le [**sport adapté**](/sport/)
-
-## Postulat: 
-La santé physique et mentale résultent d’un **équilibre** entre plusieurs facteurs déterminants de la santé. Cet équilibre est sans cesse influencé par notre environnement, nos habitudes, nos occupations et nos relations sociales. Agir sur ces facteurs permet de promouvoir la santé ou d’essayer de la recouvrer.
-
-## Valeurs :
-L’**écoute, l’empathie et le respect** sont au cœur de ma pratique. La personne est placée au centre du traitement et est considérée comme experte de sa situation.
 
 
