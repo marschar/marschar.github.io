@@ -17,6 +17,6 @@ La santé physique et mentale résultent d’un **équilibre** entre plusieurs f
 
 - Agir sur ses occupations en retrouvant des activités significatives ainsi qu’un équilibre occupationnel par l’[**ergothérapie**](/ergotherapie/).
 - Agir sur son environnement afin de promouvoir la santé en modifiant celui-ci par l’[**aménagement intérieur**](/amenagement/)
-- Agir sur ses habitudes de vie par la pratique de l’activité physique telle que le [**sport adapté**](/sport/)
+- Agir sur ses habitudes de vie par la pratique d'une activité physique telle que le [**nordic walking**](/sport/)
 
 

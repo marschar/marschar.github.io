@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sport adapté
-nav-title: Sport adapté
+title: Nordic walking
+nav-title: Nordic walking
 permalink: /sport/
 feature-img: "assets/img/feature-img/nordic-walking.jpg"
 order: 4
@@ -13,8 +13,6 @@ Le but est de promouvoir l’activité physique et d’agir en amont des problè
 
 ## Horaires : 
 
-> De **mars à octobre** selon météo, durée **45 minutes** avec retour au point de départ
+> De **mars à octobre** selon météo, durée **60 minutes** avec retour au point de départ
 
-**Séance d'essai gratuite** proposée avec une paire de bâton en prêt
-
-Inscriptions sur [https://www.jemebouge.ch/ergo-nordic-2/](https://www.jemebouge.ch/ergo-nordic-2/)
+Inscriptions sur [https://www.jemebouge.ch/ergo-nordic-2/](https://www.jemebouge.ch/ergo-nordic-2/) ou par le formulaire de [contact](/contact/)

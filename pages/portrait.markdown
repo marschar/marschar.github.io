@@ -40,6 +40,7 @@ L’**écoute, l’empathie et le respect** sont au cœur de ma pratique. La per
 - Prise en charge des patients cérébrolésés présentant des troubles cognitifs et comportements « chroniques », Lausanne, 2021
 - Le bilan neuropsychologique chez la personne âgée; pistes d'intervention à partir du potentiel de la personne, Lausanne, 2022
 - Formation en gestion de l'énergie pour des patients souffrant de fatigue chronique, Lausanne, 2022
+- Intervenir au mieux avec les personnes qui présentent des troubles anxieux, Lausanne, 2023
 
 ### Aménagement de l’espace :
 
